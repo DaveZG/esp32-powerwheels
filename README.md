@@ -2,4 +2,4 @@
 # esp32-powerwheels
 Hoverboard motor controllers controlled serially via esp32 and UART and then connected to a parental remote via ESPNow RF protocol
 
-If you wish to only control the motor controllers without the use of a wireless controller then you can use the BerlinettaCarOnly.ino instead
+If you wish to only control the motor controllers without the use of a wireless controller then you can use the BerlinettaCarOnly Project instead
